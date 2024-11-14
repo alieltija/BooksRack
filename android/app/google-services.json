@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302703857980",
+    "project_id": "booksrack-6ed2e",
+    "storage_bucket": "booksrack-6ed2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302703857980:android:d6964c712f2290a2b40e39",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWI6vRT2JWkUpU5wIBXOZ1CaZMZs_12c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
